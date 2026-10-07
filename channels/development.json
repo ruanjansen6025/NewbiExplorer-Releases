@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "NewbiExplorer",
   "channel": "development",
-  "version": "20.0.0.5-dev1-r32",
-  "sequence": 32,
+  "version": "20.0.0.6-dev1-r33",
+  "sequence": 33,
   "dataContract": 1,
   "updaterProtocol": 1,
-  "packageUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/download/v20.0.0.5-dev1-r32/NewbiExplorer-20.0.0.5-dev1-r32.newbiupdate",
-  "sha256": "c02e5d16d6bf14b8555bcb971c104f57add411bd8cab1ed45c22613602fe7146",
-  "publishedUtc": "2026-10-07T09:40:23.2186606Z",
-  "releaseNotesUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/tag/v20.0.0.5-dev1-r32",
-  "summary": "Newbi Explorer 20.0.0.5-dev1-r32"
+  "packageUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/download/v20.0.0.6-dev1-r33/NewbiExplorer-20.0.0.6-dev1-r33.newbiupdate",
+  "sha256": "a414cf6f90dd453d0c395380b74b65dc8ecd634051bbb7754cbe1e05c2eae021",
+  "publishedUtc": "2026-10-07T10:26:04Z",
+  "releaseNotesUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/tag/v20.0.0.6-dev1-r33",
+  "summary": "Newbi Explorer 20.0.0.6-dev1-r33"
 }
