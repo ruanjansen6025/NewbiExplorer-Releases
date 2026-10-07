@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "NewbiExplorer",
   "channel": "development",
-  "version": "20.0.0.8-dev1-r35",
-  "sequence": 35,
+  "version": "20.0.0.9-dev1-r36",
+  "sequence": 36,
   "dataContract": 1,
   "updaterProtocol": 1,
-  "packageUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/download/v20.0.0.8-dev1-r35/NewbiExplorer-20.0.0.8-dev1-r35.newbiupdate",
-  "sha256": "46e5db4aec86522df06a56b0fde3dcb2b161b0882bfa7af7a195a15466845e6a",
-  "publishedUtc": "2026-10-07T12:18:56.1047858Z",
-  "releaseNotesUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/tag/v20.0.0.8-dev1-r35",
-  "summary": "Newbi Explorer 20.0.0.8-dev1-r35"
+  "packageUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/download/v20.0.0.9-dev1-r36/NewbiExplorer-20.0.0.9-dev1-r36.newbiupdate",
+  "sha256": "44b34111bfb3cacd59c352f0bd5292e6af9cbd53160b050d3ec6ff64768f5d6a",
+  "publishedUtc": "2026-10-07T13:25:19.3053060Z",
+  "releaseNotesUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/tag/v20.0.0.9-dev1-r36",
+  "summary": "Newbi Explorer 20.0.0.9-dev1-r36"
 }
