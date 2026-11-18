@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "NewbiExplorer",
   "channel": "development",
-  "version": "20.0.0.90-dev1-r112",
-  "sequence": 112,
+  "version": "20.0.0.13-dev1-r40",
+  "sequence": 40,
   "dataContract": 1,
   "updaterProtocol": 1,
-  "packageUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/download/v20.0.0.90-dev1-r112/NewbiExplorer-20.0.0.90-dev1-r112.newbiupdate",
-  "sha256": "31094109871562f744c399168fa1d565076a1bedf7db66ac3ca8809ca40bf1f5",
-  "publishedUtc": "2026-11-18T01:17:36Z",
-  "releaseNotesUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/tag/v20.0.0.90-dev1-r112",
-  "summary": "Development preview for R110 or R111. Do not upgrade directly from earlier builds."
+  "packageUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/download/v20.0.0.13-dev1-r40/NewbiExplorer-20.0.0.13-dev1-r40.newbiupdate",
+  "sha256": "8a8dd6d9edc952ff763297e09b3a50a4bc4524cb7ad7e94a17b4d85a3e58f376",
+  "publishedUtc": "2026-10-16T03:13:14.1938610Z",
+  "releaseNotesUrl": "https://github.com/ruanjansen6025/NewbiExplorer-Releases/releases/tag/v20.0.0.13-dev1-r40",
+  "summary": "Newbi Explorer 20.0.0.13-dev1-r40"
 }
